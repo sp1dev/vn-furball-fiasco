@@ -22,7 +22,10 @@ label start:
     scene bg apartment_mallow_sitting
     with fade
 
-    me "Finally, the day has come! Time to snag that PS5 from GameStop."
+    show mallow smiling head at truecenter
+    with dissolve
+
+    me "Finally, the day has come! Time to snag that PS5 from GameZoo."
 
     me "Hope they're not sold out!"
 
