@@ -9,6 +9,7 @@ define cash = Character("Cashier", color="#240244")
 
 # An item the player can pick up. Does not affect story of game.
 default foil_ball = False
+default store_choice = ""
 
 # The game starts here. Each label acts as a "branch" of the game. 
 # This game only has one branch, in other words, one outcome.
